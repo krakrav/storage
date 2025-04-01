@@ -1,4 +1,3 @@
--- Cool
 local ImportGlobals
 local ObjectTree = {
     {
